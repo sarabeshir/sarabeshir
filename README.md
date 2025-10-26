@@ -1,5 +1,8 @@
 # Hi, I'm Sara Beshir! 🤍  
-Welcome to my GitHub profile! I'm a motivated **Business student at George Mason University**, concentrating in **Management Information Systems (MIS)**, minoring in **Global Affairs**, and pursuing an **Accelerated Master’s in Business Analytics (MSBA)**.  
+
+--- 
+
+Welcome to my GitHub profile! I'm a motivated Business student at George Mason University, concentrating in Management Information Systems (MIS) and minoring in Global Affairs, while pursuing an Accelerated Master’s in Business Analytics (MSBA).
 
 I’m passionate about combining **data, technology, and business strategy** to help organizations make smarter decisions and better understand complex problems.  
 My goal is to turn data into insights that drive innovation and global impact.  
