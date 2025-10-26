@@ -1,58 +1,55 @@
-# 👋 Hi, I'm Sara Beshir 🌸  
+# Hi, I'm Sara Beshir! 🤍  
+Welcome to my GitHub profile! I'm a motivated **Business student at George Mason University**, concentrating in **Management Information Systems (MIS)**, minoring in **Global Affairs**, and pursuing an **Accelerated Master’s in Business Analytics (MSBA)**.  
 
-🎓 **Business MIS Student | Global Affairs Minor | Accelerated Master's in Business Analytics (MSBA)**  
-💻 Aspiring **Data Analyst** | Turning Data into Insightful, Globally-Aware Business Decisions  
-
----
-
-### 🌟 About Me  
-I'm a **Business major** at **George Mason University**, concentrating in **Management Information Systems (MIS)** with a **minor in Global Affairs**, and pursuing an **accelerated Master’s in Business Analytics (MSBA)**.  
-
-I’m passionate about using **data and technology to help organizations make smarter decisions** and understand complex problems in a global context.  
-By combining my business background, technical skills, and analytical mindset, I strive to make data-driven insights accessible and actionable for diverse audiences.
+I’m passionate about combining **data, technology, and business strategy** to help organizations make smarter decisions and better understand complex problems.  
+My goal is to turn data into insights that drive innovation and global impact.  
 
 ---
 
-### 🔧 Technical Skills  
+## 🎓 Education  
+**George Mason University** – Fairfax, Virginia  
+- B.S. in Business, Concentration in Management Information Systems (MIS)
+- **Expected Graduation:** December 2025  
+- Minor in Global Affairs  
+- Accelerated Master’s in Business Analytics (MSBA)  
+- **Expected Graduation:** May 2027
+
+**Relevant Coursework:**  
+Business Information Systems, Data Analytics, Cloud Computing, Accounting, SQL & Database Management, Strategic Management, and Global Business Studies.  
+
+**CodePath.org** – *Web 101: Intro to Web Development* (In Progress)  
+A 10-week course designed to build full-stack web development skills. Learned to design, build, and deploy responsive websites using HTML, CSS, and JavaScript.
+
+---
+
+## 💻 Currently Working On  
+📊 **Tableau Portfolio** – A collection of interactive dashboards analyzing sales, categories, and customer sentiment to support business decisions.  
+💾 **SQL Portfolio** – Query projects focusing on data extraction, cleaning, and reporting for business analytics.  
+☕ **Java Portfolio** – Core programming exercises developed in jGRASP focusing on logic, conditionals, and object-oriented concepts.  
+🌸 **Cherry Blossom Festival Website** – A responsive web design project built using HTML and CSS to showcase event details and imagery.  
+
+---
+
+## 🔧 My Tools  
+Here are some of the tools and technologies I enjoy using in my projects:  
+
 - **Data Visualization:** Tableau, Power BI  
-- **Databases:** SQL, Oracle, SAP  
+- **Databases:** SQL, Snowflake  
 - **Programming:** Python, Java  
 - **Web Development:** HTML, CSS, JavaScript  
-- **Cloud & Tools:** AWS, Excel, Google Workspace  
+- **Cloud & Tools:** AWS, Azure, Excel 
 
 ---
 
-### 📂 Featured Projects  
-📊 [**Tableau Portfolio**](https://github.com/sarabeshir/tableau-portfolio) – Interactive dashboards visualizing sales, category, and customer sentiment data  
-💾 [**SQL Portfolio**](https://github.com/sarabeshir/sql-portfolio) – Structured queries transforming raw business data into reports and insights  
-☕ [**Java Portfolio**](https://github.com/sarabeshir/java-portfolio) – Object-oriented programs demonstrating business logic and computation  
-🌸 [**Cherry Blossom Website**](https://github.com/sarabeshir/cherry-blossom-website) – Responsive web design project using HTML & CSS  
-
----
-
-### 🚀 Currently Learning  
-- Predictive analytics and machine learning applications in business  
-- Python for data analysis and visualization  
-- Cloud data platforms and storage (AWS, Azure)  
-
----
-
-### 🌍 Global Perspective  
-My minor in **Global Affairs** enhances my ability to analyze business and data within broader cultural, political, and economic contexts.  
-I’m interested in how analytics can inform **global decision-making, market strategy, and sustainability**.
-
----
-
-### 📫 Connect with Me  
-📧 **Email:** sarabeshir0@gmail.com
+## 📬 How to Reach Me  
+📧 **Email:** sarabeshir0@gmail.com 
 💼 [**LinkedIn**](www.linkedin.com/in/sara-b-8b188a312)  
-
-📊 [**Tableau Public**](https://public.tableau.com/app/profile/sara.beshir5983)
+📊 **Tableau Public:** [public.tableau.com/app/profile/sara.beshir5983](https://public.tableau.com/app/profile/sara.beshir5983)  
 
 ---
 
-> “I combine business, technology, and analytics to make data easier to understand — helping organizations turn complexity into clarity.”
-
+✨ Thank you for visiting my profile!  
+Feel free to explore my projects, connect with me, or collaborate — I’m always excited to learn, build, and grow through technology and data. 🌷
 
 <!--
 **sarabeshir/sarabeshir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
