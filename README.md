@@ -43,9 +43,7 @@ Here are some of the tools and technologies I enjoy using in my projects:
 ---
 
 ## 📬 How to Reach Me  
-📧 **Email:** sarabeshir0@gmail.com 
-💼 **LinkedIn:** (www.linkedin.com/in/sara-b-8b188a312)  
-📊 **Tableau Public:** [public.tableau.com/app/profile/sara.beshir5983](https://public.tableau.com/app/profile/sara.beshir5983)  
+📧 **Email:** sarabeshir0@gmail.com
 
 ---
 
