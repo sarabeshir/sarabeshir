@@ -19,7 +19,7 @@ My goal is to turn data into insights that drive innovation and global impact.
 Business Information Systems, Data Analytics, Cloud Computing, Accounting, SQL & Database Management, Strategic Management, and Global Business Studies.  
 
 **CodePath.org** – *Web 101: Intro to Web Development* (In Progress)  
-A 10-week course designed to build full-stack web development skills. Learned to design, build, and deploy responsive websites using HTML, CSS, and JavaScript.
+A 10-week course designed to build full-stack web development skills. Learning to design, build, and deploy responsive websites using HTML, CSS, and JavaScript.
 
 ---
 
@@ -27,7 +27,7 @@ A 10-week course designed to build full-stack web development skills. Learned to
 📊 **Tableau Portfolio** – A collection of interactive dashboards analyzing sales, categories, and customer sentiment to support business decisions.  
 💾 **SQL Portfolio** – Query projects focusing on data extraction, cleaning, and reporting for business analytics.  
 ☕ **Java Portfolio** – Core programming exercises developed in jGRASP focusing on logic, conditionals, and object-oriented concepts.  
-🌸 **Cherry Blossom Festival Website** – A responsive web design project built using HTML and CSS to showcase event details and imagery.  
+🌸 **Cherry Blossom Festival Website (WIP)** – A responsive web design project being built using HTML and CSS to showcase event details and imagery.  
 
 ---
 
